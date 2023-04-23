@@ -6,6 +6,8 @@ Hi there! 👋
 How to reach me? ahmedghazy72@gmail.com
 
 📚 Frameworks and Libraries
+
+
 Spring Boot , Spring Cloud
 
 
@@ -15,4 +17,6 @@ Spring Boot , Spring Cloud
 Java , type Script
 
 💾 Databases and ORM
+
+
 Oracle DB , Mongo DB
