@@ -10,7 +10,6 @@
 
  ADF , Spring Boot , Spring Cloud
 
-
 # 📋 Programming Languages
 
 
@@ -19,4 +18,4 @@
 
 # 💾 Databases and ORM
 
-Oracle DB , Mongo DB
+Oracle DB , Mongo DB 
