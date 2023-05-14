@@ -10,7 +10,7 @@
 
  ADF , Spring Boot , Spring Cloud
 
-![ADF](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=ADF&logoColor=white)
+![ADF](https://img.shields.io/badge/ADF-%23ED8B00.svg?style=for-the-badge&logo=ADF&logoColor=white)
 
 # 📋 Programming Languages
 
