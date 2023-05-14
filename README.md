@@ -8,10 +8,11 @@
 # 📚<h8 align="left">Frameworks and Libraries :</h8>
 <p align="left"> <a
 
+![Java Swing](https://img.shields.io/badge/Java_Swing-FF6C37?style=for-the-badge&logo=Swing&logoColor=white)
 ![ADF](https://img.shields.io/badge/Oracle_ADF-%23ED8B00.svg?style=for-the-badge&logo=ADF&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-FF6C37?style=for-the-badge&logo=Swing&logoColor=white) 
+ 
 
 # 📋<h8 align="left">Programming Languages and Tools :</h8>
 <p align="left"> <a
