@@ -1,8 +1,8 @@
 # <h1 align="center">Hi 👋 I'm Ahmed Ghazy</h1>
 - 👋 I’m @AhmedIsmailGhazy
-- 👀 I’m interested in Oracle ADF , java Back-end
-- 🌱 I’m currently learning Spring Boot , Spring Cloud.
-- 💞️ I’m looking to collaborate on java core.
+- 👀 I’m interested in Oracle ADF, Java back-end
+- 🌱 I’m currently Working on Spring Boot, Spring Cloud.
+- 💞️ I’m looking to collaborate on Java Core.
 - 📫 How to reach me? ahmedghazy72@gmail.com
 
 # 📚<h8 align="left">Frameworks and Libraries :</h8>
